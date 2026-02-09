@@ -1,1 +1,1 @@
-# Workshop
+# CI-Pipeline-Lab
